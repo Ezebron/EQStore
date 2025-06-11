@@ -48,7 +48,9 @@ main div{
   height: 300px;
   position: absolute;
   border-radius: 30%;
+  border-color: #a633bd;
   bottom: 50px;
+  left: 35px;
 
 }
 .bloque-item-1{
@@ -61,13 +63,21 @@ main div{
 
 }
 .bloque-item-2{
+  color: gainsboro;
   font-family: "Delius Swash Caps", cursive;
   font-weight: 400;
   position: absolute;
   font-style: normal;
+  font-size: 50px;
   justify-content: end;
+  top: 65px;
+  
 }
-.bloque-item-3{
+.btn-dark{
   height: 50px;
-  position: flex;
+  width: 250px;
+  border-radius: 50%;
+  position: absolute;
+  top: 75%;
+  background: #9d07bb48;
 }
